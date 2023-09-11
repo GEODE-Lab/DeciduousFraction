@@ -1,4 +1,4 @@
-from modules import Handler, Opt
+from geosoup import Handler, Opt
 
 """
 This script only reformts the GEE extracted data to be plotted in a different script. 

@@ -1,4 +1,6 @@
-from modules import *
+import sys
+import os
+from geosoup import  *
 import numpy as np
 import scipy
 

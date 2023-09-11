@@ -1,4 +1,4 @@
-from modules import *
+from geosoup import *
 
 
 if __name__ == '__main__':
@@ -30,13 +30,12 @@ if __name__ == '__main__':
 
         Raster(outfile).add_overviews(bigtiff='yes',
                                       compress='lzw')
-        '''
+
         Raster(outfile).clip("D:/Shared/Dropbox/projects/NAU/" +
                              "landsat_deciduous/data/STUDY_AREA/canada_ak_combined_albers.shp",
                              bigtiff='yes',
                              compress='lzw')
-        '''
-        
+
 
 
 

@@ -1,4 +1,4 @@
-from modules import *
+from geosoup import *
 import numpy as np
 from sys import argv
 from osgeo import gdal_array

@@ -133,24 +133,14 @@ if __name__ == '__main__':
     startJulian3 = 255
     endJulian3 = 330
 
-    '''
-    startJulian1 = 60
-    endJulian1 = 120
-
-    startJulian2 = 180
-    endJulian2 = 240
-
-    startJulian3 = 270
-    endJulian3 = 330
-    '''
 
     # start year , end year , year
     years = {
-        # '1992': (1987, 1997),
+        '1992': (1987, 1997),
         '2000': (1998, 2002),
-        # '2005': (2003, 2007),
-        # '2010': (2008, 2012),
-        # '2015': (2013, 2018)
+        '2005': (2003, 2007),
+        '2010': (2008, 2012),
+        '2015': (2013, 2018)
     }
 
     internal_bands = ee.List(['BLUE', 'GREEN', 'RED', 'NIR', 'SWIR1', 'SWIR2', 'PIXEL_QA',

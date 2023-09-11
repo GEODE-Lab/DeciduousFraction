@@ -1,11 +1,10 @@
+import sys
+import os
+from geosoup import Vector
+
 if __name__ == '__main__':
 
-    import sys
-    import os
 
-    module_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    sys.path.append(module_path)
-    from modules import Vector
 
     infile = "C:/temp/arctic_oroarctic_wgs84.shp"
     outshpfile = "C:/temp/arctic_oroarctic_wgs84_2km.shp"

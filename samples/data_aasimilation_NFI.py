@@ -1,4 +1,4 @@
-from modules import *
+from geosoup import *
 import pandas as pd
 import math
 from osgeo import ogr, osr

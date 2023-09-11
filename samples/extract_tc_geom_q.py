@@ -125,7 +125,6 @@ if __name__ == '__main__':
     results = q_out.get()
 
 
-    exit()
 
     result_dicts = list()
     for result in results:

@@ -1,4 +1,4 @@
-from modules import *
+from geosoup import *
 
 
 if __name__ == '__main__':

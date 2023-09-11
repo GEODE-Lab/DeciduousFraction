@@ -1,4 +1,4 @@
-from modules import *
+from geosoup import *
 
 if __name__ == '__main__':
 
@@ -11,7 +11,7 @@ if __name__ == '__main__':
     print(mraster)
 
 
-    # out_ls = mraster.layerstack(verbose=True, return_vrt=False)
+    out_ls = mraster.layerstack(verbose=True, return_vrt=False)
 
 
 

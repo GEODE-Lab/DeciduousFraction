@@ -1,5 +1,5 @@
 from sys import argv
-from modules import *
+from geosoup import *
 
 """
 This script makes tiles of given size tile_size_x, tile_size_y
