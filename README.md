@@ -1,7 +1,7 @@
 # Forest composition change and related biophysical climate feedbacks
 
 
-This repository houses python scripts and codes used in mapping and analysing deciduous fraction, tree canopy cover, and radiative forcing for the Boreal domain in North America. Our objective was to assess changes in deciduous cover over recent decades across the NA boreal forest biome based on Landsat satellite observations coupled with an extensive field sample plot network. Moreover, we used these codes to quantify the magnitude of albedo climate forcings associated with the observed composition changes. 
+This repository houses python scripts and codes used in mapping and analysing deciduous fraction, tree canopy cover, and radiative forcing for the Boreal domain in North America. Our objective was to assess changes in deciduous cover over recent decades across the NA boreal forest biome based on Landsat satellite observations coupled with an extensive field sample plot network. Moreover, we used these codes to quantify the magnitude of albedo climate forcings associated with the observed composition changes, viz., deciduous fraction and tree canopy cover. 
 
 This work was supported by NASA ABoVE and NASA Carbon Cycle and Ecosystems (CCE) Science programs.
 
